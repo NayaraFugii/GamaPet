@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#pugImage{
+    width: 100%;
+    height: 500px;
+}
+
+#containerCat,#containerCatSecond,
+#containerDog,
+#containerDogSecond{
+    display: flex;
+    width: 100%; 
+    justify-content: space-around ;  
+
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#descriptionBlog{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px
+}
+
+#catBlack,#colorfulCat, #dogBrown,
+ #colorfulDog, #textDog1,
+ #textDog2{
+    width: 40vw;
+    height: 30vh;
+    margin: 20px 0;
+}
+
+#catBlack,#colorfulCat, #dogBrown,
+ #colorfulDog{
+     border: 2px solid black;
+     border-radius: 10px;
+ }
+
+p{
+    margin: 20px;
+    font-size: 20px;
+}
