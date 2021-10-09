@@ -20,7 +20,7 @@ body{
 
 .imgusuario{
     border-radius: 40px;
-    width: 80px;
+    width: 200px;
     box-shadow: gray;
 }
 
@@ -31,9 +31,9 @@ body{
     
 }
 .Login>input{
-    border-radius: 8px;
-    width: 100px;
-    height: 20px;
+    border-radius: 10px;
+    width: 180px;
+    height: 30px;
     
 }
 
@@ -44,9 +44,9 @@ body{
     
 }
 .Password>input{
-    border-radius: 8p10pxx;
-    width: 100pxpx;
-    height: 20px;
+    border-radius: 10px;
+    width: 180px;
+    height: 30px;
 }
 
 .button>button{
