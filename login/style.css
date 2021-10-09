@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(190, 224, 156);
+}
+
+.form{
+    width: 250px;
+    margin: auto;
+    padding-top: 50px;
+}
+.painel{
+    box-shadow: 2px 2px 4px black;
+    background-color: rgb(91, 131, 87);
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.painel-topo{
+    text-align: center;
+}
+
+.imgusuario{
+    border-radius: 40px;
+    width: 200px;
+    box-shadow: gray;
+}
+
+.Login>label{
+    width: 80px;
+    color: black;
+    display: block;
+    
+}
+.Login>input{
+    border-radius: 10px;
+    width: 180px;
+    height: 30px;
+    
+}
+
+.Password>label{
+    width: 80px;
+    color: black;
+    display: block;
+    
+}
+.Password>input{
+    border-radius: 10px;
+    width: 180px;
+    height: 30px;
+}
+
+.button>button{
+    background-color: rgb(213, 255, 215);
+    width: 100%;
+    border-radius: 30px;
+    height: 30px;
+}
